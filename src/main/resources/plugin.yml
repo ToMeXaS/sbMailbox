@@ -1,0 +1,9 @@
+name: sbMailbox
+version: '${project.version}'
+main: lt.tomexas.skyblock.Skyblock
+api-version: 1.17
+commands:
+  sendmail:
+    description: Sends mail to player island
+depend:
+  - SuperiorSkyblock2
